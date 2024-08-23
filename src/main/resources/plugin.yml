@@ -1,0 +1,6 @@
+name: OverseaRP_Legal
+version: '${project.version}'
+main: fr.koogodev.oversearp_legal.OverseaRP_Legal
+commands:
+  me:
+    description: Un /me.
