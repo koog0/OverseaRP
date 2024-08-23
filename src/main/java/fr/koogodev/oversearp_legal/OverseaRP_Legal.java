@@ -20,7 +20,6 @@ public final class OverseaRP_Legal extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
     }
 
     public HashMap<UUID, ArmorStand> gethashMap(){
